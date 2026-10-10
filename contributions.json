@@ -19,6 +19,16 @@
    "status": "live",
    "open_jobs": 37,
    "added_at": "2026-10-06T10:01:52.125Z"
+  },
+  {
+   "key": "workable:huggingface",
+   "name": "Hugging Face",
+   "ats": "workable",
+   "slug": "huggingface",
+   "careers_url": "https://apply.workable.com/huggingface",
+   "status": "live",
+   "open_jobs": 6,
+   "added_at": "2026-10-10T21:37:22.583Z"
   }
  ]
 }
